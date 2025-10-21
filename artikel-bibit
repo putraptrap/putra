@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panduan Memilih Bibit - Budidaya Ayam Bangkok</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+      <a>Panduan Budidaya Ayam Bangkok</a>
+      <button class="menu-toggle">☰</button>
+        <div class="nav">
+            <a href="index.html">Beranda</a> | <a href="panduan.html">Panduan</a> | <a href="pakan.html">Pakan</a> | <a href="kesehatan.html">Kesehatan</a> | <a href="perawatan.html">Perawatan & Latihan</a> | <a href="galeri.html">Galeri</a> | <a href="kontes.html">Kontes</a> | <a href="artikel.html"class="active">Artikel</a> | <a href="jamu.html">Jamu</a> | <a href="kontak.html">Kontak</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="content-section">
+            <h1>Panduan Lengkap Memilih Bibit (Bakalan) Ayam Bangkok Super</h1>
+            <img src="https://example.com/gambar-bibit-ayam.jpg" alt="Bibit Ayam Bangkok" style="max-width: 70%; margin-bottom: 20px; border-radius: 8px;">
+            <p>Memilih bibit atau bakalan adalah langkah paling krusial. Bibit berkualitas memiliki potensi besar menjadi juara. Artikel ini membahas ciri fisik (katuranggan) dan mental yang harus Anda cari.</p>
+            
+            <h2>Ciri Fisik (Katuranggan) yang Dicari</h2>
+            <ul>
+                <li><strong>Bentuk Kepala:</strong> Menyerupai buah pinang, menandakan kecerdikan.</li>
+                <li><strong>Mata:</strong> Jernih, tidak berair, dan sorot mata tajam.</li>
+                <li><strong>Sisik Kaki:</strong> Kering, rapi, dan memiliki ciri khusus (misal: naga temurun).</li>
+                <li><strong>Badan:</strong> Tegap, panjang, dan terasa padat saat dipegang.</li>
+            </ul>
+
+            <h2>Ciri Mental (Karakter)</h2>
+            <ol>
+                <li><strong>Keaktifan:</strong> Pilih ayam yang paling aktif bergerak dan dominan.</li>
+                <li><strong>Nafsu Makan:</strong> Ayam yang lahap makan biasanya memiliki metabolisme baik.</li>
+                <li><strong>Keberanian:</strong> Tidak mudah takut, bahkan berani mematuk.</li>
+            </ol>
+            
+            <br>
+            <a href="artikel.html" class="read-more-btn" style="background-color: #555;">&larr; Kembali ke Daftar Artikel</a>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2025 Panduan Budidaya Ayam Bangkok</p>
+    </div>
+    <script src="script.js" defer></script>
+</body>
+</html>
