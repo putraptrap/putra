@@ -68,6 +68,13 @@ body {
     margin-bottom: 20px;
 }
 
+.content-section h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
 .content-section h2 {
     text-align: center;
     font-size: 28px;
@@ -297,4 +304,15 @@ th {
 
 .read-more-btn:hover {
     background-color: #8b4513;
+}
+
+.article-main-image {
+    width: 50%;
+    max-width: 50%;
+    height: 400px;
+    object-fit: cover;
+    display: block;
+    margin: 15px auto 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
